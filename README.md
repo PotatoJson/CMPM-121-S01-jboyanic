@@ -48,4 +48,3 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 1. Deleted the deno comment
 2. made the counter variable increment
 3. udated the html to reflect the changes
-
