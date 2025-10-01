@@ -16,7 +16,7 @@ document.body.innerHTML = `
   <button id="increment">Click Me!</button>
 `;
 
-// Add click handler
+// Add click handle
 const button = document.getElementById("increment")!;
 const counterElement = document.getElementById("counter")!;
 
